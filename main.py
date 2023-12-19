@@ -1,4 +1,4 @@
-import cs111
+
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 import os
